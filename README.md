@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Cherry
 - 👀 I’m interested in CS and surfing online
-- 🌱 I’m currently learning CS online
-- 💞️ I’m looking to collaborate on leetcode
-- I‘m recording my learning notes via github.
+- 🌱 I’m currently majoring in CS in IIT school
+- 💞️ I’m working on improving my coding skills via Github
 
 <!---
 xichun1021/xichun1021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
